@@ -1,0 +1,51 @@
+.resume-button {
+    background-color: #BCCFFF;
+    color: #14213d;
+    padding: 5px 25px;
+}
+
+.resume-button:hover {
+    background-color: #E1E9FF;
+    color: #53658A;
+}
+
+.insta-button {
+    color: #F54768;
+}
+
+.telegram-button {
+    color: #5249E5;
+}
+
+.insta-button:hover {
+    color: #14213d;
+}
+
+.get-in-touch-buttons {
+    background-color: #14213d;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px auto;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.get-in-touch-buttons:hover {
+    background-color: #53658A;
+    color: #fff;
+}
+
+.github-button {
+    background-color: #BCCFFF;
+    color: #14213d;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: none;
+    border-radius: 25px;
+}
+
+.github-button:hover {
+    background-color: #2C4375;
+    color: #53658A;
+}
